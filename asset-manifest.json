@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Routing_shop/static/css/main.48faed82.css",
+    "main.js": "/Routing_shop/static/js/main.ff3dec59.js",
+    "index.html": "/Routing_shop/index.html",
+    "main.48faed82.css.map": "/Routing_shop/static/css/main.48faed82.css.map",
+    "main.ff3dec59.js.map": "/Routing_shop/static/js/main.ff3dec59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48faed82.css",
+    "static/js/main.ff3dec59.js"
+  ]
+}
